@@ -1,9 +1,13 @@
 n = int(input())
-input_line = input().split(" ")
-cut = 0
+input_line = [input() for i in range(n)]
+flag = False
 for item in input_line:
     a = int(item)
-    if a % 3 == 0:
-        cut += 1
+    if a == 7:
+        flag = True
+        break
 
-print(cut)
+if flag:
+    print("YES")
+else:
+    print("NO")
