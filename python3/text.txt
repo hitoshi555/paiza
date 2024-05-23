@@ -1,6 +1,8 @@
-3 2
-mako 13 08/08 nara
-taisei 16 12/04 nagano
-megumi 14 11/02 saitama
-2 taihei
-3 megu
+7
+make 2742 mako
+getnum 1
+make 2782 taisei
+getname 2
+make 31 megumi
+getname 1
+getname 3
