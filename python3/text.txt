@@ -1,8 +1,5 @@
-7
-make 2742 mako
+4
+make 3 nana
 getnum 1
-make 2782 taisei
-getname 2
-make 31 megumi
-getname 1
-getname 3
+change_num 1 5
+getnum 1
