@@ -1,4 +1,10 @@
-3 188 174
-181
-177
-113
+2 7
+nene
+ao
+handshake
+leave nene
+join neko
+join koko
+handshake
+leave neko
+handshake
