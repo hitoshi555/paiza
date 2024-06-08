@@ -1,10 +1,9 @@
-2 7
-nene
-ao
-handshake
-leave nene
-join neko
-join koko
-handshake
-leave neko
-handshake
+3 5
+nao
+hiro
+yuki
+645 nao
+593 hiro
+2058 yuki
+29484 nao
+374759 nao
