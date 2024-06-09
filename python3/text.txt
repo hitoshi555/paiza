@@ -1,9 +1,10 @@
-3 5
-nao
-hiro
-yuki
-645 nao
-593 hiro
-2058 yuki
-29484 nao
-374759 nao
+3 6
+A
+B
+C
+A 1 100
+B 2 100
+A 3 500
+C 4 895
+C 5 890
+A 6 2685
