@@ -1,10 +1,6 @@
-3 6
-A
-B
-C
-A 1 100
-B 2 100
-A 3 500
-C 4 895
-C 5 890
-A 6 2685
+5
+aiueo give 2489 !
+kk join membership!
+coffee_addiction join membership!
+so_cute give 837 !
+yoyo give 9284 !

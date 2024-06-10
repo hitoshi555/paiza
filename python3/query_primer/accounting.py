@@ -19,6 +19,7 @@ for key, value in data.items():
 # 解答
 # N, K = map(int, input().split())
 # departments = {input(): [] for _ in range(N)}
+# print("departments", departments)
 
 # for _ in range(K):
 #     a, p, m = input().split()
