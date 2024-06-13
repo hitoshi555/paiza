@@ -19,3 +19,4 @@ for i in range(1, H + 1): # (0,0) は0なので1から始める
 for _ in range(N):
     y, x = map(int, input().split())
     print(ans[y][x])
+    
